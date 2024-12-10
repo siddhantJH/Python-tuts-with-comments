@@ -3,5 +3,5 @@
 #behavior of language does not changes, in JS behavior changes depending upon where you are running it node or browser
 #download the setup according to the operting system 
 #installs straight forwardly
-# in windows you only have python, however in mac you write python3 to run the code 
+# in windows you only have python, however in mac you write python3 to run the code.
 print("hello")
