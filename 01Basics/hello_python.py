@@ -18,7 +18,8 @@ chai(10) #can give integer or string any datatype
 chai_one="lemon tea"
 chai_two="ginder tea"
 chai_three="adrak chai"
+# now trying to access these variable in python shell below are the things which we notice 
 # now if we try to use these variable using the .notation it shows no attribute named as chai_one ,because when we imported it then it was not there. 
-#  so in shell we need to close the shell and reimport it , or rather now we need to reload it on the go. 
-# from importlib import reload   #this reloads the changes done ont he file.
-# write reload(hello_chai) now we can use the attribites using the dot notation.
+# so in shell we need to close the shell and reimport it , or rather now we need to reload it on the go. 
+# from importlib import reload #this reloads the changes done ont he file.
+# write reload(hello_chai) now we can use the attribites using the dot notation, as it updates the code to latest version 
