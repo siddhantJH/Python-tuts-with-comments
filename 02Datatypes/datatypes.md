@@ -1,24 +1,10 @@
 <!-- Data types -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Data types(Object types)-->
 
 - Number : 1234,3.1415,3+4j,0b111, Decimal(),Fraction()
 - String : 'spam',"Bob's", b'a\x01x',u'sp\xc4m'
-- List: It is continous memory space where in each index we can store values, has fucntion as well list(range(10)) 
+- List: It is continous memory space where in each index we can store values, has function as well list(range(10)) 
         mylist=[1,2,3,[4,5],4.5] //here we can make basic list
                           //can make a list inside the list 
 -  Tuple : (1,'spam', 4, 'U'), tuple('spam'),namedtuple
@@ -32,7 +18,7 @@
 
 
 
-<!-- >>> 2.5 * 5 -->   python supports high precision aik bhi value bada hua high precision to resulkt bhi high precision hoga 
+<!-- >>> 2.5 * 5 -->   python supports high precision aik bhi value bada hua high precision to result bhi high precision hoga 
 <!-- 12.5 -->
 
 
@@ -42,8 +28,6 @@
 >>> math.pow(2,3)
 8.0
 >>>  -->
-
-
 
 
 <!-- import random -->

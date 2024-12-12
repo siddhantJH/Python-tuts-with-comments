@@ -6,5 +6,5 @@ from hello_python import chai
 
 
 # now as soon as i ran it a new folder got create called as a pycache folder ( 2 __ both side )
-# inside that we have a pyc file now the main reason for that is 
+# inside that we have a pyc file now the main reason for that is the use of inport 
 chai("hello called from another file") 
